@@ -1,0 +1,10 @@
+NAME: wxDnw
+DESCRIPTION: dnw tools for mini2440(use wxPython)
+LICENSE: GPLV3
+AUTHOR: caicry@gmail.com
+
+
+USAGE:
+1 copy file/51-dnw.rules /etc/udev/rules.d/
+2 python wxDnw.py
+
