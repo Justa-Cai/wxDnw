@@ -1,0 +1,2 @@
+# dnw
+SUBSYSTEM=="usb", ATTR{idVendor}=="5345", ATTR{idProduct}=="1234", MODE="0777", OWNER="star"
